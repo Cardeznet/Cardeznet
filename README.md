@@ -1,8 +1,8 @@
-# ***CARDED BOT 🤖🤖***
+# ***CARDED BOT 🤖🤖🤖 🥇***
 
 
-## ***🥇WORLD ONLINE PAYMENTS INFRASTRUCTURE FOT THE INTERNET 🛸🛸🛸🛸***
-### ***NEXT GEN ECOMMERSE WEB***
+## ***WORLD ONLINE PAYMENTS INFRASTRUCTURE FOT THE INTERNET 🛸🛸🛸🛸***
+###  ***NEXT GEN ECOMMERSE WEB***
    - ***PAYMENT PROCESSING PLATFORM FOR THE INTERNET***
    - ***This repo corresponds to the Checkout integration built in the Checkout 101 video series. The initial code is the code provided by the Checkout Quickstart Integration Builder***.
    - ***This repo differs slightly from the Integration Builder code***:
