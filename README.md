@@ -2,7 +2,7 @@
 
 ## ***WORLD ONLINE PAYMENTS INFRASTRUCTURE FOT THE INTERNET 🛸🛸🛸🛸***
 
-### ***NEXT GEN ECOMMERSE WEB***
+## ***NEXT GEN ECOMMERSE WEB***
 
 - ***PAYMENT PROCESSING PLATFORM FOR THE INTERNET***
 - ***This repo corresponds to the Checkout integration built in the Checkout 101 video series. The initial code is the code provided by the Checkout Quickstart Integration Builder***.
@@ -11,7 +11,7 @@
 
 ## ***CARDED CHECKOUTS FOUNDATIONS***
 
-### ***CARDEZ.NET***
+## ***CARDEZ.NET***
 
 - ***Payment Processing Platform for the Internet***
 - ***Accept payments on your platform with Carded for platforms.***
@@ -26,7 +26,7 @@
 
                bundle install.env
 
-# ***[62c844eae603a91476db28a5_Payments-on-product-feature-p-800](https://user-images.githubusercontent.com/111741273/190426255-5cbec56f-e3ff-43bc-ba3f-537f3fd5126f.png)***
+- ***[62c844eae603a91476db28a5_Payments-on-product-feature-p-800](https://user-images.githubusercontent.com/111741273/190426255-5cbec56f-e3ff-43bc-ba3f-537f3fd5126f.png)***
 
 ## ***NEW FEATURES TESTING***
 
