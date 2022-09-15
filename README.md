@@ -26,7 +26,7 @@
 
                bundle install.env
 
-# ![62c844eae603a91476db28a5_Payments-on-product-feature-p-800](https://user-images.githubusercontent.com/111741273/190426255-5cbec56f-e3ff-43bc-ba3f-537f3fd5126f.png)
+# ***[62c844eae603a91476db28a5_Payments-on-product-feature-p-800](https://user-images.githubusercontent.com/111741273/190426255-5cbec56f-e3ff-43bc-ba3f-537f3fd5126f.png)***
 
 ## ***NEW FEATURES TESTING***
 
